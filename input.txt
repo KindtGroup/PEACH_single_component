@@ -1,10 +1,10 @@
-24
-500 0.1 0.05
+24 # Number of datasets
+500 0.1 0.05 # Number of iterations, alpha, conc for CFE output
 
 
-20 18 116.76156
+20 18 116.76156 # Number of surfactants, Number of lines, Box volume
 
-  1  12.297129 0.64027376
+  1  12.297129 0.64027376 # clustersize, average number of this cluster, # STDV
   2  1.9898654 0.12831582
   3   0.572645 0.063656483
   4 0.21094342 0.043843546
